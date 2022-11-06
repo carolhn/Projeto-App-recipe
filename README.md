@@ -55,4 +55,8 @@
 
 ## 👥️ Autores:
 Projeto realizado em grupo por:
-
+<br>
+<a src="https://github.com/lucasvtf">Lucas</a>
+<br>
+<a src="https://github.com/deborahcristinadeoliveira">
+Déborah Cristina</a>
