@@ -10,7 +10,7 @@
 
 <img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem3.png" alt="imagem2.png" style="max-width: 60%;">
 
-# ✏️  Esse projeto tem objetivo de:
+## ✏️  Esse projeto tem objetivo de:
 
 ▫️Utilizar _Redux_ para gerenciar estado;<br>
 
@@ -57,6 +57,7 @@
   
  </details>
 <br>
+
 ## Autores:
 Projeto realizado em grupo por:
 
