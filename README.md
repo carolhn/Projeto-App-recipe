@@ -1,4 +1,4 @@
-# 👩‍🍳️ Projeto App de Receitas!
+#  🍽️ Projeto App de Receitas!
 
 <img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem1.png" alt="imagem.png" style="max-width: 60%;">
 
@@ -32,7 +32,7 @@
 
   Um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
-  Nele será possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
+  Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
 
   ⚠️ A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 </details>
