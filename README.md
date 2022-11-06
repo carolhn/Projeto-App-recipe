@@ -53,6 +53,6 @@
   
  </details>
 
-##👥️ Autores:
+## 👥️ Autores:
 Projeto realizado em grupo por:
 
