@@ -1,5 +1,9 @@
 # 🥗️ Projeto App de Receitas!
 
+<img src="" alt="imagem1.png" style="max-width: 80%;">
+<img src="" alt="imagem2.png" style="max-width: 80%;">
+<img src="" alt="imagem3.png" style="max-width: 80%;">
+
 # ✏️  Esse projeto tem objetivo de:
 
 ▫️Utilizar _Redux_ para gerenciar estado;<br>
@@ -16,12 +20,6 @@
 
 ▫️Criar Hooks customizados;<br>
 <br>
-
-# 🔗️ Links:
-<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
-
-<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
-
 
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido: </strong></summary><br />
@@ -52,5 +50,11 @@
     - `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   
  <details>
+
+
+# 🔗️ Links:
+<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
+
+<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
 
 
