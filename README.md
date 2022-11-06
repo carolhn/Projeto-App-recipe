@@ -1,4 +1,4 @@
-##  🍽️ Projeto App de Receitas!
+# 🍽️ Projeto App de Receitas!
 
 <img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem1.png" alt="imagem.png" style="max-width: 60%;">
 
@@ -56,7 +56,6 @@
     - `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   
  </details>
-<br>
 
 ## Autores:
 Projeto realizado em grupo por:
