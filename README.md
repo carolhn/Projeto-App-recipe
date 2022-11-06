@@ -1,14 +1,14 @@
-# 🥗️ Projeto App de Receitas!
+# 👩‍🍳️ Projeto App de Receitas!
 
-<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem1.png" alt="imagem.png" style="max-width: 70%;">
-
-<br>
-
-<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem2.png" alt="imagem2.png" style="max-width: 70%;">
+<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem1.png" alt="imagem.png" style="max-width: 60%;">
 
 <br>
 
-<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem3.png" alt="imagem2.png" style="max-width: 70%;">
+<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem2.png" alt="imagem2.png" style="max-width: 60%;">
+
+<br>
+
+<img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem3.png" alt="imagem2.png" style="max-width: 60%;">
 
 # ✏️  Esse projeto tem objetivo de:
 
