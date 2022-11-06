@@ -1,4 +1,4 @@
-#  🍽️ Projeto App de Receitas!
+##  🍽️ Projeto App de Receitas!
 
 <img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem1.png" alt="imagem.png" style="max-width: 60%;">
 
@@ -55,12 +55,8 @@
   - Inicialize o projeto:
     - `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   
- <details>
-
-
-# 🔗️ Links:
-<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
-
-<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
-
+ </details>
+<br>
+## Autores:
+Projeto realizado em grupo por:
 
