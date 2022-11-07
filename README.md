@@ -60,3 +60,4 @@ Projeto em grupo realizado por:
 - [Caroline Nunes](https://github.com/carolhn)
 - [Déborah Cristina](https://github.com/deborahcristinadeoliveira)
 - [Lucas Victor Ferreira](https://github.com/lucasvtf)
+- [Yann Secundo](https://github.com/yannsecundo)
