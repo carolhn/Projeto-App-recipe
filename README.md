@@ -6,52 +6,43 @@
 
 <img src="https://github.com/carolhn/Projeto-App-recipe/blob/main/imagem3.png" alt="imagem2.png" style="max-width: 60%;">
 
-## ✏️  Esse projeto tem objetivo de:
+## Contexto do projeto:
+Neste projeto foi desenvoldido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
+A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 
-▫️Utilizar _Redux_ para gerenciar estado;<br>
 
-▫️Utilizar a biblioteca _React-Redux;<br>
+## Habilidades:
 
-▫️Utilizar a Context API do _React_ para gerenciar estado;<br>
+* Utilizar `Redux` para gerenciar estado
 
-▫️Utilizar o _React Hook useState_;<br>
+* Utilizar a biblioteca `React-Redux`
 
-▫️Utilizar o _React Hook useContext_;<br>
+* Utilizar a `Context API` do React para gerenciar estado
 
-▫️Utilizar o _React Hook useEffect_;<br>
+* Utilizar o React Hook `useState`
 
-▫️Criar Hooks customizados;<br>
-<br>
+* Utilizar o React Hook `useContext`
 
-<details>
-  <summary><strong>👨‍💻 O que foi desenvolvido: </strong></summary><br />
+* Utilizar o React Hook `useEffect`
 
-  Um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+* Criar Hooks customizados
 
-  Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
+## Instalação:
+Para rodar a aplicação em sua maquina.
 
-  ⚠️ A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
-</details>
+1. Clone o repositorio. Use o comando:</br>
+<code>git clone git@github.com:carolhn/Projeto-App-recipe.git</code></br>
 
-<br>
+2. Entre na pasta do repositório que você acabou de clonar:</br>
+<code>cd Projeto-App-recipe</code>
 
-<details>
-  <summary><strong>‼️ Desenvolvimento: </strong></summary><br />
+3. Instale as dependências</br>
+<code>npm install</code>
 
-  1. Clone o repositório
+4. Comando para executar o app</br>
+<code>npm start</code>
 
-  - Use o comando: `git clone git@github.com:carolhn/Projeto-App-recipe.git`.
-  - Entre na pasta do repositório que você acabou de clonar:
-    - `cd Projeto-App-recipe.git`
-
-  2. Instale as dependências e inicialize o projeto
-
-  - Instale as dependências:
-    - `npm install`
-  - Inicialize o projeto:
-    - `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
-  
- </details>
 
 ## 👥️ Autores:
 Projeto em grupo realizado por:
@@ -61,3 +52,10 @@ Projeto em grupo realizado por:
 - [Déborah Cristina](https://github.com/deborahcristinadeoliveira)
 - [Lucas Victor Ferreira](https://github.com/lucasvtf)
 - [Yann Secundo](https://github.com/yannsecundo)
+
+
+## Contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-nunes-devfullstack/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caarolhn/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/48988037114)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunescaroline905@gmail.com)
